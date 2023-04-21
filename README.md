@@ -1,6 +1,14 @@
 # Hand Written Digits Classification
 This app uses tensorflow and keras module to train a multiclass-classification model (using Softmax Regression Algorithm) to recogize which digit is when user handwrites on the app.
 
+## Prequisites
+  - Streamlit
+  - plotly
+  - pycaret
+  - pandas
+  - streamlit_pandas_profiling
+  - os
+
 ## Functions of App
 ### Overview
 ![Overview](https://user-images.githubusercontent.com/117391498/233541828-fd69c874-6b4a-467d-a738-b94c238991ec.jpeg)
