@@ -1,8 +1,12 @@
 # Hand Written Digits Classification
-This app uses tensorflow and keras module to train a multiclass-classification model (using Softmax Regression Algorithm) to recogize which digit is when user handwrites on the app.
+This app uses tensorflow and keras module to train a multiclass-classification model (using Softmax Regression Algorithm) to recogize which digit is when user handwrites on the Gradio app.
 
 ## Prequsites
-  - 
+  - Gradio
+  - Pickle
+  - Tensorflow
+  - Numpy
+  - Matplotlib
 
 
 ## Display
@@ -27,5 +31,14 @@ Digit five
 Digit six
 ![6](https://user-images.githubusercontent.com/117391498/233547488-de3c99db-9ddb-4e48-a452-5e84d824dc9a.jpeg)
 
+Digit six
+![7](https://user-images.githubusercontent.com/117391498/233548297-3e9ca4bc-840e-4c8c-9027-ab064a174093.jpeg)
+
 Digit eight
 ![8](https://user-images.githubusercontent.com/117391498/233547576-0ef90486-53d0-4b51-8074-f57f3f85aa23.jpeg)
+
+Digit nine
+![9](https://user-images.githubusercontent.com/117391498/233548321-0160a92b-477d-4bd2-b7de-082901131631.jpeg)
+ine
+
+
